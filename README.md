@@ -5,4 +5,4 @@ This repository contains the material related to the survey paper: "Autonomous R
 Files:
 
 * all_papers.md: table of analyzed papers and references.
-
+* care_tables.md: Qualitative levels of sub capabilities for CARE (Collaborative, Adaptive, Responsible, Explainable) systems.
