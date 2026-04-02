@@ -8,7 +8,7 @@
 | Learning through interaction | Ask humans for suitable and sufficient feedback | Rich interaction with one human partner | Rich interaction with multiple AI and human partners | 
 | Learning how to interact | Predict what human partner knows, wants and needs (ToM) | Anticipate how human reacts in human-agent  collaboration | Anticipate how humans react in larger, mixed teams | 
 | Incremental adaptivity | Detect uncertainty of performance due to changing situations, goals and preferences; take suitable action | Predict likely upcoming situations, switching between pre-learned models | Online learning for predicted and surprising changes in situations, goals, and preferences |
-| Integrate symbolic constraints during learning | Identify and ask for meaning of new symbols | Learn rich meaning of symbols  | hared meaning and use of symbols |
+| Integrate symbolic constraints during learning | Identify and ask for meaning of new symbols | Learn rich meaning of symbols  | Shared meaning and use of symbols |
 | **Responsibility sub-capabilities** | | | | 
 | Critically examining algorithmic decisions of big data applications on their legal or moral quality | Identifying the grounds on which a decision was reached | Monologically assessing the legal or moral quality of the decision | Engaging in human-machine dialogue about the legal or moral quality of the decision |
 | Validating whether legally or morally acceptable behavior is learned | Consistently and completely representing ethical or legal knowledge for validation purposes | Matching the representations with the learned behavior | Improving the learned behavior | 
